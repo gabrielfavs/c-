@@ -1,0 +1,6 @@
+c:\Users\autologon\Desktop\prova\prova\obj\Debug\net8.0\prova.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\autologon\Desktop\prova\prova\obj\Debug\net8.0\prova.AssemblyInfoInputs.cache
+c:\Users\autologon\Desktop\prova\prova\obj\Debug\net8.0\prova.AssemblyInfo.cs
+c:\Users\autologon\Desktop\prova\prova\obj\Debug\net8.0\prova.csproj.CoreCompileInputs.cache
+c:\Users\autologon\Desktop\prova\prova\obj\Debug\net8.0\prova.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\autologon\Desktop\prova\prova\obj\Debug\net8.0\prova.csproj.AssemblyReference.cache
